@@ -1,0 +1,131 @@
+/*nav*/
+.navbar{
+    background-color: rgba(66, 12, 12, 0.829);
+}
+.nav {
+    margin-top: 4px;
+    color: rgb(39, 173, 115);
+}
+.navbar-header {
+    margin-top: 5px;
+}
+.header {
+    min-height: 75vh;
+    min-width: 100%;
+    background-image: url(https://thumbs.dreamstime.com/b/nature-header-footer-21354020.jpg);
+
+}
+.line {
+    margin-top: 200px;
+    color: rgb(15, 13, 10);
+    
+}
+.btn {
+    color: rgb(138, 187, 229);
+    background-color: rgba(209, 44, 44, 0.795);
+}
+.image1 {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 2%;
+
+}
+/*register page*/
+.register {
+   background-color: #330f97;
+    height: 100%;
+    width: 100%;
+
+}
+.container {
+    background: #a6d8ae;
+    border-radius: 10px;
+    width: 40%;
+    height: 50%;
+    margin-top: 5%;
+}
+.register-sec {
+    padding: 50px 30px;
+    position: relative;
+    margin-top:20% ;
+
+}
+.register-sec h2 {
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #999156;
+    
+}
+.register-sec h2:after {
+    content: " ";
+    width: 100px;
+    height: 5px;
+    background: #339ebb;
+    display: block;
+    margin-top: 20px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto
+}
+.btn-login {
+    background: #323233;
+    color: #464343;
+    font-weight: 600;
+}
+/*login page*/
+.login-block{
+    float:left;
+    width:100%;
+    padding : 50px 10px;
+    background: #177b94;
+}
+.login-sec {
+    padding: 50px 30px;
+    position: relative;
+}
+.login-sec h2 {
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #999156;
+   
+}
+.login-sec h2:after {
+    content: " ";
+    width: 100px;
+    height: 5px;
+    background: #339ebb;
+    display: block;
+    margin-top: 20px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto
+}
+.btn-login {
+    background: #1094a5;
+    color: #8be227;
+    font-weight: 600;
+}
+.veiw{
+    margin-top: 5px;
+    width:100px ;
+    height:100px ;
+}
+.vvv{
+    color: rgb(12, 41, 66);
+
+}
+.dashboard{
+height:40% ;
+width:60% ;
+}
+.ccc{
+    margin-top: 25%;
+    background-color: #00ff37;
+}
+.cccc{
+   
+    background-color: #a7701ed7;
+    color: #1be770;
+}
